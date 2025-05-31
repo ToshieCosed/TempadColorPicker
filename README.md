@@ -1,5 +1,5 @@
 This is a windows desktop application C# .net project.
-All it does is let you have a color picker UI for the tempad mod which the mod author removed the color picker from in game, it's now a weird integer no one can figure out in their head, in a config file.
+All it does is let you have a color picker UI for the tempad mod config file known currently as tempad-client.jsonc which the mod author removed the color picker from in game, it's now a weird integer no one can figure out in their head, in a config file.
 I suppose it's also some kind of a web rgb color picker tool for hex, but it's not neccesary it's just there to help people convert colors and understand them.
 At the moment you can only pick a color from the color picker. There is no other function. The only copy-able text is the text in the text box for the config file.
 Copy only the numbers when using it, in where it says Copy ToConfig: do not copy the text "Copy ToConfig:" only what comes after the ':' which is pure numbers to your config file for
