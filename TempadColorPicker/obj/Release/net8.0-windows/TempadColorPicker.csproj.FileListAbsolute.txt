@@ -1,0 +1,16 @@
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\bin\Release\net8.0-windows\TempadColorPicker.exe
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\bin\Release\net8.0-windows\TempadColorPicker.deps.json
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\bin\Release\net8.0-windows\TempadColorPicker.runtimeconfig.json
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\bin\Release\net8.0-windows\TempadColorPicker.dll
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\bin\Release\net8.0-windows\TempadColorPicker.pdb
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\obj\Release\net8.0-windows\TempadColorPicker.TempadColorPicker.resources
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\obj\Release\net8.0-windows\TempadColorPicker.csproj.GenerateResource.cache
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\obj\Release\net8.0-windows\TempadColorPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\obj\Release\net8.0-windows\TempadColorPicker.AssemblyInfoInputs.cache
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\obj\Release\net8.0-windows\TempadColorPicker.AssemblyInfo.cs
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\obj\Release\net8.0-windows\TempadColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\obj\Release\net8.0-windows\TempadColorPicker.dll
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\obj\Release\net8.0-windows\refint\TempadColorPicker.dll
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\obj\Release\net8.0-windows\TempadColorPicker.pdb
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\obj\Release\net8.0-windows\TempadColorPicker.genruntimeconfig.cache
+C:\Users\iquie\source\repos\TempadColorPicker\TempadColorPicker\obj\Release\net8.0-windows\ref\TempadColorPicker.dll
